@@ -1,9 +1,7 @@
-# calculate_starken_mechanicalsoup
-This is a test of mechanicalsoup library on python3 used on starken webpage.
+# Calculate Starken using Mechanicalsoup
+This is a test of Mechanicalsoup library on python3 used on starken webpage.
 
-In other words, calculate shipping cost of Starken using python3 like a web browser.
+In other words, using python instead of using the website to calculate shipping cost of Starken.
 
-# TODO:
-- Associate each city with own number.
-- Specify convertion units.
-- create gui or associate with a webserver o wepage.
+# This project is archived:
+- The website changed and the project was only meant to learn webscraping 
